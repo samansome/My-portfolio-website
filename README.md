@@ -7,7 +7,7 @@ Build **Stunning** User Experiences
 ### Instructions
 
 * For this **project,** you'll be building a _portfolio_ `website.` 
-* You will be provided a (design `mockup` as a [PDF-file](https://drive.google.com/file/d/1fKuG36GFVI3N4hKsCDzO_R6UbGRYks0H/view?usp=drivesdk))
+* You will be provided a (design `mockup` as a [PDF-file](https://drive.google.com/file/d/1fKuG36GFVl3N4hKsCDzO_R6UbGRYks0H/view?usp=drivesdk))
 * You must replicate that design in `HTML` and `CSS.` 
 * You will develop a responsive `website` that will display  `images,` descriptions and `links` to each of the _portfolio projects_(click here for the [project)](https://samansome.github.io/My-portfolio-website/) portfolio projects you will complete through the course of your Nanodegree program on any size of screen.
 
