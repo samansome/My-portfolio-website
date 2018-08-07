@@ -1,0 +1,138 @@
+/*class for entire header*/
+.top-line {
+	border-bottom: solid #bcbbbb;
+}
+/*class for header text*/
+.signature {
+	text-align: right;
+	color: #00F;
+    font-style: italic;
+}
+/*class for portfolio center image*/
+.center-image {
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	height: 200px;
+}
+/*class for each project images*/
+.project-image1{
+	width: : 100%;
+	max-height: 200px;
+	border-radius: 10%
+}
+.project-image2{
+	width: : 100%;
+	max-height: 200px;
+	border-radius: 10%
+}
+.project-image3{
+	width: : 100%;
+	max-height: 200px;
+	border-radius: 10%;
+}
+/*class for my profile picture*/
+.Shotonwa-s {
+	width: 100%;
+	margin: auto;
+	max-height: auto;
+	border-radius: 50%;
+}
+/*class for featured work */
+.featured-work {
+	color: #7d97ad;
+}
+/*class for entire project images*/
+.featured-work-data {
+	max-width: 100%;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+h2 {
+	font-size: 20px;
+	color: #FFF;
+}
+/*class for entire grid*/
+.grid {
+	margin: auto;
+	max-width: 100%;
+	width: 100%;
+}
+/*class for something which take up a who rol.*/
+.row{
+	width: 100%;
+	margin-bottom: 20px;
+}
+/* we'll need to make a column class for every column;12 column*/
+.col-1{
+	width: 8.33%;
+}
+/*Each column expands by 8.3333% */
+.col-2{
+width: 16.66%;
+margin-left:  10px;
+}
+.col-3{
+width: 25%;
+}
+.col-4{
+width: 33.33%;
+}
+.col-5{
+width: 41.66%;
+}
+.col-6{
+width: 50%;
+}
+.col-7{
+width: 58.33%;
+}
+.col-8{
+width: 66.66%;
+}
+.col-9{
+width: 75%;
+}
+.col-10{
+width: 83.33%;
+}
+.col-11{
+width: 91.66%;
+}
+.col-12{
+width: 100%;
+}
+/*footer*/
+.footer{
+	background-color: black;
+	height: 630px;
+	margin: auto;
+}
+.contact{
+
+}
+.credit{
+	text-align: right;
+	margin-right: 50px;
+	color: white;
+}
+h3{
+	font-style: italic;
+}
+.copyright{
+	text-align: center;
+
+}
+.infomation{
+	margin-left: 20px;
+	margin-top: 
+}
+.space{
+	padding: 1em;
+}
+/*Media Quaries*/
+@media screen and (min-width: 500px) {
+.center-image{ height: 400px }
+}
+}
